@@ -1,12 +1,6 @@
 {
 	"projects": [
 		{
-			"title": "Mommy",
-			"description": "An interactive terminal application using the binary search algorithm to find a target value specified by the user.",
-			"link": "https://github.com/jacobsonryan/binary-search",
-			"status": false
-		},
-		{
 			"title": "Binary Search",
 			"description": "An interactive terminal application using the binary search algorithm to find a target value specified by the user.",
 			"link": "https://github.com/jacobsonryan/binary-search",

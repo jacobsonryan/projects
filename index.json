@@ -40,6 +40,6 @@
 			"description": "This application is intended to help keep a log of prescription or over-the-counter medication and documents the users feelings with a simple daily log.",
 			"link": "https://github.com/jacobsonryan/pillbox",
 			"status": false
-		},
+		}
 	]
 }

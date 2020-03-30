@@ -1,9 +1,9 @@
 {
 	"projects": [
 		{
-			"title": "Binary Search",
-			"description": "An interactive terminal application using the binary search algorithm to find a target value specified by the user.",
-			"link": "https://github.com/jacobsonryan/binary-search",
+			"title": "A.Dom To-Do List",
+			"description": "This is a to-do list web application written in a templating language called a.dom.",
+			"link": "https://jacobsonryan.github.io/adom-todo/",
 			"status": false
 		},
 

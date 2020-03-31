@@ -10,21 +10,14 @@
 		{
 			"title": "Blackhole Simulation",
 			"description": "This is an animation that predominantly replicates a black hole so to speak using HTML5 Canvas.",
-			"link": "https://github.com/jacobsonryan/blackhole-animation",
+			"link": "https://jacobsonryan.github.io/blackhole-animation/",
 			"status": false
 		},
 
 		{
 			"title": "Interactive Starfield",
 			"description": "A seemingly endless interactive starfield animation using HTML5 Canvas by simply manipulating an array.",
-			"link": "https://github.com/jacobsonryan/interactive-starfield",
-			"status": false
-		},
-
-		{
-			"title": "Todo List",
-			"description": "This todo list web application focuses on the local storage web api to store items which is saved across browser sessions.",
-			"link": "https://github.com/jacobsonryan/local-storage-todo",
+			"link": "https://jacobsonryan.github.io/interactive-starfield/",
 			"status": false
 		},
 

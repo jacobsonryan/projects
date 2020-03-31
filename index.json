@@ -1,7 +1,7 @@
 {
 	"projects": [
 		{
-			"title": "A.Dom To-Do List",
+			"title": "a.dom To-Do List",
 			"description": "This is a to-do list web application written in a templating language called a.dom.",
 			"link": "https://jacobsonryan.github.io/adom-todo/",
 			"status": false

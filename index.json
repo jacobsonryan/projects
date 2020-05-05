@@ -1,5 +1,4 @@
-{
-	"projects": [
+[
 		{
 			"title": "a.dom To-Do List",
 			"description": "This is a to-do list web application written in a templating language called a.dom.",
@@ -34,5 +33,4 @@
 			"link": "https://github.com/jacobsonryan/pillbox",
 			"status": false
 		}
-	]
-}
+]

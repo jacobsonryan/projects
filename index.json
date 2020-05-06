@@ -29,13 +29,5 @@
 			"link": "https://github.com/jacobsonryan/twitter-bot",
 			"status": false,
 			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725472/b9d74dcf989be001872a40f9d37e2016_hpq93f.jpg"
-		},
-
-		{
-			"title": "Pillbox",
-			"description": "This application is intended to help keep a log of prescription or over-the-counter medication and documents the users feelings with a simple daily log.",
-			"link": "https://github.com/jacobsonryan/pillbox",
-			"status": false,
-			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588728760/n_caqgeg.png"
 		}
 ]

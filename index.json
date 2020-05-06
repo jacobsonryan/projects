@@ -3,7 +3,8 @@
 			"title": "a.dom To-Do List",
 			"description": "This is a to-do list web application written in a templating language called a.dom.",
 			"link": "https://jacobsonryan.github.io/adom-todo/",
-			"status": false
+			"status": false,
+			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725071/adom_je6dth.png"
 		},
 
 		{
@@ -11,6 +12,7 @@
 			"description": "This is an animation that predominantly replicates a black hole so to speak using HTML5 Canvas.",
 			"link": "https://jacobsonryan.github.io/blackhole-animation/",
 			"status": false
+			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725215/1b2f584b1b7d2c06328fd3d68cb441ff_djwwae.png"
 		},
 
 		{
@@ -18,6 +20,7 @@
 			"description": "A seemingly endless interactive starfield animation using HTML5 Canvas by simply manipulating an array.",
 			"link": "https://jacobsonryan.github.io/interactive-starfield/",
 			"status": false
+			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725340/fdsf_rmadvt.png"
 		},
 
 		{
@@ -25,6 +28,7 @@
 			"description": "This script retweets and likes tweets from specific preset accounts using Node JS.",
 			"link": "https://github.com/jacobsonryan/twitter-bot",
 			"status": false
+			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725472/b9d74dcf989be001872a40f9d37e2016_hpq93f.jpg"
 		},
 
 		{
@@ -32,5 +36,6 @@
 			"description": "This application is intended to help keep a log of prescription or over-the-counter medication and documents the users feelings with a simple daily log.",
 			"link": "https://github.com/jacobsonryan/pillbox",
 			"status": false
+			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725686/dfbeb7377e62f50da14006253a10f42d_ejjlql.png"
 		}
 ]

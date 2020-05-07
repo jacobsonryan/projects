@@ -5,7 +5,7 @@
 			"link": "https://jacobsonryan.github.io/adom-todo/",
 			"status": false,
 			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588728542/b_q74amb.png",
-			"filter": "react"
+			"tag": "react"
 		},
 
 		{
@@ -14,7 +14,7 @@
 			"link": "https://jacobsonryan.github.io/blackhole-animation/",
 			"status": false,
 			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725215/1b2f584b1b7d2c06328fd3d68cb441ff_djwwae.png",
-			"filter": "canvas"
+			"tag": "canvas"
 		},
 
 		{
@@ -23,7 +23,7 @@
 			"link": "https://jacobsonryan.github.io/interactive-starfield/",
 			"status": false,
 			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725340/fdsf_rmadvt.png",
-			"filter": "canvas"
+			"tag": "canvas"
 		},
 
 		{
@@ -32,6 +32,6 @@
 			"link": "https://github.com/jacobsonryan/twitter-bot",
 			"status": false,
 			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725472/b9d74dcf989be001872a40f9d37e2016_hpq93f.jpg",
-			"filter": "html"
+			"tag": "html"
 		}
 ]

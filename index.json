@@ -3,7 +3,6 @@
 			"title": "a.dom To-Do List",
 			"description": "This is a to-do list web application written in a templating language called a.dom.",
 			"link": "https://jacobsonryan.github.io/adom-todo/",
-			"status": false,
 			"img": "https://i.imgur.com/sCs2JhA.jpg"
 		},
 
@@ -11,7 +10,6 @@
 			"title": "Blackhole Simulation",
 			"description": "This is an animation that predominantly replicates a black hole so to speak using HTML5 Canvas.",
 			"link": "https://jacobsonryan.github.io/blackhole-animation/",
-			"status": false,
 			"img": "https://i.imgur.com/gR1pq7s.jpg"
 		},
 
@@ -19,7 +17,6 @@
 			"title": "Interactive Starfield",
 			"description": "A seemingly endless interactive starfield animation using HTML5 Canvas by simply manipulating an array.",
 			"link": "https://jacobsonryan.github.io/interactive-starfield/",
-			"status": false,
 			"img": "https://i.imgur.com/nNGrRPs.jpg?1"
 		},
 
@@ -27,7 +24,6 @@
 			"title": "Twitter Bot",
 			"description": "This script retweets and likes tweets from specific preset accounts using Node JS.",
 			"link": "https://github.com/jacobsonryan/twitter-bot",
-			"status": false,
-			"img": "https://res.cloudinary.com/ddu9npacm/image/upload/v1588725472/b9d74dcf989be001872a40f9d37e2016_hpq93f.jpg"
+			"img": "https://i.imgur.com/xbXrnDW.jpg"
 		}
 ]

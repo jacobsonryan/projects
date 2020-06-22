@@ -9,7 +9,7 @@
 
 		{
 			"title": "Blackhole Simulation",
-			"description": "This is an animation that predominantly replicates a black hole so to speak using HTML5 Canvas.",
+			"description": "This animation replicates a black hole (kinda) using HTML5 Canvas.",
 			"link": "https://jacobsonryan.github.io/blackhole-animation/",
 			"img": "https://i.imgur.com/ICzapMV.png",
 			"date": "2020-06-02"
@@ -17,7 +17,7 @@
 
 		{
 			"title": "Interactive Starfield",
-			"description": "A seemingly endless interactive starfield animation using HTML5 Canvas by simply manipulating an array.",
+			"description": "A seemingly endless interactive starfield animation using HTML5 Canvas.",
 			"link": "https://jacobsonryan.github.io/interactive-starfield/",
 			"img": "https://i.imgur.com/YmwmPK1.jpg",
 			"date": "2020-06-02"

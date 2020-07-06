@@ -29,6 +29,7 @@
 		{
 			"title": "Twitter Bot",
 			"description": "This script retweets and likes tweets from specific preset accounts using Node JS.",
+			"view": "",
 			"code": "https://github.com/jacobsonryan/twitter-bot",
 			"img": "https://i.imgur.com/bDhY0nb.jpg",
 			"date": "2020-06-02"

@@ -2,7 +2,8 @@
 		{
 			"title": "a.dom To-Do List",
 			"description": "This is a to-do list web application written in a templating language called a.dom.",
-			"link": "https://jacobsonryan.github.io/adom-todo/",
+			"view": "https://jacobsonryan.github.io/adom-todo/",
+			"code": "https://github.com/jacobsonryan/adom-todo",
 			"img": "https://i.imgur.com/gO8uIew.jpg",
 			"date": "2020-06-02"
 		},
@@ -10,7 +11,8 @@
 		{
 			"title": "Blackhole Simulation",
 			"description": "This animation replicates a black hole (kinda) using HTML5 Canvas.",
-			"link": "https://jacobsonryan.github.io/blackhole-animation/",
+			"view": "https://jacobsonryan.github.io/blackhole-animation/",
+			"code": "https://github.com/jacobsonryan/blackhole-animation",
 			"img": "https://i.imgur.com/ICzapMV.png",
 			"date": "2020-06-02"
 		},
@@ -18,7 +20,8 @@
 		{
 			"title": "Interactive Starfield",
 			"description": "A seemingly endless interactive starfield animation using HTML5 Canvas.",
-			"link": "https://jacobsonryan.github.io/interactive-starfield/",
+			"view": "https://jacobsonryan.github.io/interactive-starfield/",
+			"code": "https://github.com/jacobsonryan/interactive-starfield",
 			"img": "https://i.imgur.com/YmwmPK1.jpg",
 			"date": "2020-06-02"
 		},
@@ -26,7 +29,7 @@
 		{
 			"title": "Twitter Bot",
 			"description": "This script retweets and likes tweets from specific preset accounts using Node JS.",
-			"link": "https://github.com/jacobsonryan/twitter-bot",
+			"code": "https://github.com/jacobsonryan/twitter-bot",
 			"img": "https://i.imgur.com/bDhY0nb.jpg",
 			"date": "2020-06-02"
 		}

@@ -1,5 +1,13 @@
 [
 		{
+			"title": "Note Taking App",
+			"description": "This project was build using ReactJS while experimenting with Bootstrap for the styles.",
+			"view": "https://jacobsonryan.github.io/bootstrap-notes/#/",
+			"code": "https://github.com/jacobsonryan/bootstrap-notes",
+			"img": "https://i.imgur.com/ruifckF.jpg",
+			"date": "2020-08-06"
+		},
+		{
 			"title": "Giphy Api",
 			"description": "This project was built with ReactJS while using the Giphy API.",
 			"view": "https://jacobsonryan.github.io/giphy-api/",

@@ -1,5 +1,13 @@
 [
 		{
+			"title": "Sorting Algorithm Visualizer",
+			"description": "This project was build using ReactJS where I implemented four popular sorting algorithms to visualize on a random array.",
+			"view": "https://jacobsonryan.github.io/sorting-visualizer",
+			"code": "https://github.com/jacobsonryan/sorting-visualizer",
+			"img": "https://i.imgur.com/gQnVJN9.jpg",
+			"date": "2020-08-11"
+		},
+		{
 			"title": "Note Taking App",
 			"description": "This project was build using ReactJS while experimenting with Bootstrap for the styles.",
 			"view": "https://jacobsonryan.github.io/bootstrap-notes/#/",
